@@ -1,0 +1,6 @@
+﻿  ForTests.cpp
+C:\Users\Andri\OneDrive\Робочий стіл\Лабораторнні C++\ForTests\ForTests\ForTests.cpp(114,17): warning C4552: '-': result of expression not used
+C:\Users\Andri\OneDrive\Робочий стіл\Лабораторнні C++\ForTests\ForTests\ForTests.cpp(209): warning C4715: 'order_manage::ger_order_name': not all control paths return a value
+C:\Users\Andri\OneDrive\Робочий стіл\Лабораторнні C++\ForTests\ForTests\ForTests.cpp(224): warning C4715: 'order_manage::get_order_status': not all control paths return a value
+C:\Users\Andri\OneDrive\Робочий стіл\Лабораторнні C++\ForTests\ForTests\ForTests.cpp(233): warning C4715: 'order_manage::get_order_price': not all control paths return a value
+  ForTests.vcxproj -> C:\Users\Andri\OneDrive\Робочий стіл\Лабораторнні C++\ForTests\Debug\ForTests.exe

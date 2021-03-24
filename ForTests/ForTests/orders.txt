@@ -1,0 +1,5 @@
+1|Ksenia Shwetz|1
+2|Roksolana Melnyk|2
+3|Valentyn Ivanov|3
+4|Maryna Bondarenko|3
+5|Taisa Boyko|3
